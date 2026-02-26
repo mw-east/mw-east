@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I'm currently learning **AWS Cloud infrastructure and Cyber Security**<br><br>- ☁️ I'm currently my AWS Cloud Practitioner Cert.<br><br>- 🔒 I plan on working on my CompTIA Sec+<br><br><br>
+- 🌱 I'm currently learning **AWS Cloud infrastructure and Cyber Security**<br><br>- ☁️ I'm currently my AWS Cloud Practitioner Cert.<br><br>- 🔒 I have gotten my CompTIA Sec+<br><br><br>
 
 
 ## 🌐 Socials:
